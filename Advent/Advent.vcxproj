@@ -22,7 +22,14 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input.txt" />
+    <Text Include="..\..\..\..\Downloads\inputEthanDay2.txt" />
+    <Text Include="inputDay1.txt" />
+    <Text Include="inputDay2.txt" />
+    <Text Include="inputEthanDay1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Day1.h" />
+    <ClInclude Include="Day2.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -1,17 +1,12 @@
-#include <fstream>
+#pragma once
 
+#include "Day1.h"
+#include "Day2.h"
 
 using namespace std;
 
 int main() {
-    int curMaximum = 0;
-    int curValue = 0;
+    Day2();
 
-    ifstream ins;
-    ins.open("input.txt");
-    while(getline(ins, curValue)){
-
-    }
-    
     return 0;
 }

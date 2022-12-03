@@ -20,8 +20,25 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input.txt">
+    <Text Include="inputDay1.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="inputEthanDay1.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\inputEthanDay2.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="inputDay2.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Day1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
