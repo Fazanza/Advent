@@ -21,16 +21,22 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="inputDay1.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-    <Text Include="inputEthanDay1.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-    <Text Include="..\..\..\..\Downloads\inputEthanDay2.txt">
-      <Filter>Source Files</Filter>
+      <Filter>Resource Files</Filter>
     </Text>
     <Text Include="inputDay2.txt">
-      <Filter>Source Files</Filter>
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="inputEthanDay1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\inputEthanDay2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="inputDay3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="inputEthanDay3.txt">
+      <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
@@ -38,6 +44,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="Day2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day3.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

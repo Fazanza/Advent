@@ -2,11 +2,12 @@
 
 #include "Day1.h"
 #include "Day2.h"
+#include "Day3.h"
 
 using namespace std;
 
 int main() {
-    Day2();
+    day3();
 
     return 0;
 }
